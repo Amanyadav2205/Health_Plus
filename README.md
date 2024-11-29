@@ -2,13 +2,12 @@
 # AI-Powered Healthcare Report Analyzer
 
 ### Bridging Gaps in Personalized and Accessible Healthcare
--LINK TO VIDEO DEMO AND PRESENTATION [Youtube](https://youtu.be/Pe4jlnYO9LQ?si=p1p4qvYdW-pTrhqo)
 
 ---
 
 ## Project Overview
 
-**Healthify- AI-Powered Healthcare Report Analyzer** is a platform designed to simplify medical report analysis, providing patients with easy-to-understand summaries and personalized healthcare plans. This platform is focused on improving healthcare access, especially in underserved areas. By utilizing cutting-edge technologies like **Google Gemini AI** for report analysis, **SQL with Drizzle ORM** for backend management, and **Privy** for secure authentication, the project aims to make healthcare more understandable and accessible.
+**Health-Plus- AI-Powered Healthcare Report Analyzer** is a platform designed to simplify medical report analysis, providing patients with easy-to-understand summaries and personalized healthcare plans. This platform is focused on improving healthcare access, especially in underserved areas. By utilizing cutting-edge technologies like **Google Gemini AI** for report analysis, **SQL with Drizzle ORM** for backend management, and **Privy** for secure authentication, the project aims to make healthcare more understandable and accessible.
 
 ### Key Features
 
